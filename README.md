@@ -1,4 +1,4 @@
-Emotion Based Music Player
+Emotion Based Music Player-
 
 This project is a basic implementation of a music player which builds a playlist for the users based on their emotion at the time. The emotion detection is done by extracting certain features from the facial image of the user, the details of which will be explained as the project progresses.
 
