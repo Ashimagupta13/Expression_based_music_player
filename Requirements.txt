@@ -1,0 +1,8 @@
+Installation of following modules-
+
+1. numpy 
+2. Dispatch 
+3. time
+4. imutils
+5. Tensorflow
+6. Keras
